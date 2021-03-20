@@ -2,7 +2,7 @@
 
 This is a repo to store **C64 programs** written by Laura P.
 
-The first app is a **H.P. quiz game written in BASIC**, [**click**](https://htmlpreview.github.io/?https://github.com/zeratulok/c64/blob/main/LoliC64.html) on this link to try it out: [C64 HP House and Wand quiz online demo](https://htmlpreview.github.io/?https://github.com/zeratulok/c64/blob/main/LoliC64.html)
+The first app is a **H.P. quiz game written in BASIC**, [**click**](https://zeratulok.github.io/c64/LoliC64.html) on this link to try it out: [C64 HP House and Wand quiz online demo](https://zeratulok.github.io/c64/LoliC64.html)
 
 ![](c64_harry_potter_quiz.gif)
 
