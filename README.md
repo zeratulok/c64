@@ -6,6 +6,6 @@ The first app is a **H.P. quiz game written in BASIC**, [**click**](https://html
 
 ![](c64_harry_potter_quiz.gif)
 
-The browser emulation is done using https://github.com/luxocrates/viciious , some minor changes to add the apps and in the loader list.
+The browser emulation is done using https://github.com/luxocrates/viciious with some minor changes.
 
 For more information on how the emulator works, visit the [Viciious](https://github.com/luxocrates/viciious) page
