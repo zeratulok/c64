@@ -1,6 +1,6 @@
 ## Welcome
 
-This is a repo to store **C64 programs** written by 9 years old Laura P.
+This is a repo to store **C64 programs** written by Laura P.
 
 The first app is a **H.P. quiz game written in BASIC**, [**click**](https://htmlpreview.github.io/?https://github.com/zeratulok/c64/blob/main/viciious.html) on this link to try it out: [C64 HP House and Wand quiz online demo](https://htmlpreview.github.io/?https://github.com/zeratulok/c64/blob/main/viciious.html)
 
