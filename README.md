@@ -8,5 +8,4 @@ The first app is a **H.P. quiz game written in BASIC**, [**click**](https://zera
 
 The browser emulation is done using https://github.com/luxocrates/viciious with some minor changes.
 
-
 For more information on how the emulator works, visit the [Viciious](https://github.com/luxocrates/viciious) page.
