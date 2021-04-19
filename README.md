@@ -9,6 +9,8 @@ The second app is a **Times table game written in BASIC**, [**click**](https://z
 
 ![](c64_harry_potter_quiz.gif)
 
+![](LoliC64TimesTables.webm)
+
 The browser emulation is done using https://github.com/luxocrates/viciious with some minor changes.
 
 For more information on how the emulator works, visit the [Viciious](https://github.com/luxocrates/viciious) page
